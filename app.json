@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Jarvis",
-    "slug": "Jarvis",
+    "name": "SWE-Project",
+    "slug": "SWE-Project",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
